@@ -9,9 +9,10 @@
   3.2 email = mihaelagadzhalova@gmail.com
 3. 
   3.1 name = Todor 
-  3.2 size = 134
+  3.2 size = 178
   3.3 email = todor.domitrov2000@gmail.com 
 4. 
   4.1 name = Iliyan
-  4.2 size = 190
+  4.2 size = 0.190
   4.3 email = iliqn.tachev@gmail.com
+  pepi moje li da sum contributor ???!?!?!?
